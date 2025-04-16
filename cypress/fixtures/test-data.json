@@ -1,0 +1,26 @@
+{
+  "user": {
+    "firstName": "John",
+    "lastName": "Doe",
+    "email": "john.doe@example.com",
+    "gender": "Male",
+    "mobile": "1234567890",
+    "dateOfBirth": {
+      "day": "001",
+      "month": "January",
+      "year": "1990"
+    },
+    "subjects": ["Math", "Physics"],
+    "hobbies": [1, 2],
+    "address": "123 Main Street"
+  },
+  "alerts": {
+    "simpleAlert": "You clicked a button",
+    "confirmAlert": "Do you confirm action?",
+    "promptAlert": "Please enter your name"
+  },
+  "windows": {
+    "newTabUrl": "https://demoqa.com/sample",
+    "newWindowUrl": "https://demoqa.com/sample"
+  }
+} 
