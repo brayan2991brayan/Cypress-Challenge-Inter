@@ -10,7 +10,7 @@ This project contains automated tests for the DemoQA website (https://demoqa.com
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone Cypress-Challenge-Inter
    ```
 
 2. Install dependencies:
